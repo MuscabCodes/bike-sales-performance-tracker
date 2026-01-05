@@ -1,4 +1,4 @@
-# Excel Sales Dashboard Project
+# Bike Sales Performance Tracker Project
 # 📋 Project Overview
 This repository contains my implementation of data cleaning and dashboard creation using Excel. In this project, I cleaned and organized a messy dataset by using nested IF formulas to handle errors, removing duplicates, and correcting formatting inconsistencies. I set up dynamic ranges and Excel Tables for automatic updates. To improve data exploration, I created Pivot Tables with slicers and timelines for easy filtering. I also developed an interactive dashboard featuring bar, line, and pie charts that update based on user selections. Additionally, I applied conditional formatting and data validation to highlight key figures and reduce errors, resulting in a faster, more efficient process and an intuitive tool for insightful decision-making.
 
